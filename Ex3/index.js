@@ -1,6 +1,6 @@
 let numero = parseFloat(prompt("Insira um número para ver a tabuada de 1 a 10"))
 let tabuada = 0;
-mensagem = ""
+let mensagem = ""
 if (isNaN(numero)) {
     alert("Você não inseriu um valor válido")
 } else {
